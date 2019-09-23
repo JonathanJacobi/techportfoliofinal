@@ -1,0 +1,102 @@
+* {
+
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+html {
+
+
+
+
+    color: #f8f8f8;
+
+    font-family: 'Lacquer', sans-serif;
+
+    font-size: 2em;
+
+
+}
+
+body {
+
+
+    background-color: #291032;
+}
+
+
+.endgame {
+    width: 50%;
+    border: 10px solid white;
+    padding: 1%;
+
+    color: aquamarine;
+    background-image: url(apple.jpg);
+    background-size: cover;
+    float: 
+}
+
+
+
+.text {
+
+    font-size: 0.5em;
+    clear: both;
+    padding: 3%;
+    width: 35%;
+}
+
+.portrait {
+    width: 40%;
+    margin-top: 2%
+}
+
+img {
+    max-width: 100%;
+}
+
+.navigation a {
+
+    color: white;
+    text-decoration: none;
+    font-size: 0.5em;
+    background-color: black;
+    padding: 1%;
+    text-align-last:
+
+        clear: both;
+}
+
+.title {
+
+    padding: 2%;
+}
+
+.animation {}
+
+
+.endstart {
+
+    width: 20%;
+    border: 10px solid white;
+
+    color: aquamarine;
+    background-image: url(apple.jpg);
+    background-size: cover;
+    margin-top: 15%;
+
+
+
+
+
+}
+
+
+.portraitandone {
+    width: 350%;
+    margin-top: 2%;
+    border: 20px solid white;
+    padding:
+
+}
